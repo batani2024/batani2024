@@ -21,7 +21,7 @@ This project is part of a capstone project focused on using technology to suppor
 - Cloud Computing: For detail, please check [this repository](https://github.com/batani2024/CC)
 - Mobile Development: For detail, please check [this repository](https://github.com/batani2024/MD)
 
-##Contributing Members
+## Contributing Members
 - Dliya Awliya Mufidah (M002B4KX1180): Machine Learning
 - Vincent Gunaratana (M002B4KY4427): Machine Learning
 - Aryadharma Wibowo (M002B4KY0683): Machine Learning
