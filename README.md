@@ -7,7 +7,7 @@ BATANI uses advanced algorithms to predict crop prices based on historical data 
 - **Price Prediction**: Get price predictions for different crops up to next 12 month.
 - **Plant Recommendations**: Receive tailored suggestions on which crops are most suitable for your location and season.
 
-This project is part of a capstone project focused on using technology to support agricultural productivity.
+/This project is part of a capstone project focused on using technology to support agricultural productivity/.
 
 ## Installation
 
