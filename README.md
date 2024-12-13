@@ -15,11 +15,6 @@ BATANI uses advanced algorithms to predict crop prices based on historical data 
 [APK](https://github.com/batani2024/Batani-MobileDev/releases/tag/v1.0.0)
 [Demo app](https://www.youtube.com/watch?v=L6aH1NdHfcE)
 
-### Prerequisites
-- **Android Studio** (for Android app development)
-- **Python 3.10** (for running the backend models)
-- **Kotlin/Java** (for Android development)
-
 ## Tech Stack
 - Machine Learning: For detail, please check [this repository](https://github.com/batani2024/Machine-Learning)
 - Cloud Computing: For detail, please check [this repository](https://github.com/batani2024/CC)
