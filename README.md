@@ -1,6 +1,8 @@
 # BATANI
 **BATANI** is a mobile application designed to help farmers predict harvest prices and receive plant recommendations based on their location. It utilizes machine learning models to analyze local data and predict the best crops for farmers to plant, maximizing their yield and profitability.
 
+![batani app design](batani_app_design.png)
+
 ## Description
 BATANI uses advanced algorithms to predict crop prices based on historical data and weather patterns. It also suggests optimal crops suited for the user's location, helping farmers make data-driven decisions to improve productivity and sustainability.
 
@@ -10,6 +12,8 @@ BATANI uses advanced algorithms to predict crop prices based on historical data 
 *This project is part of a capstone project focused on using technology to support agricultural productivity*.
 
 ## Installation
+
+[Demo app](https://www.youtube.com/watch?v=L6aH1NdHfcE)
 
 ### Prerequisites
 - **Android Studio** (for Android app development)
