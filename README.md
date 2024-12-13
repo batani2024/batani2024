@@ -13,7 +13,7 @@ BATANI uses advanced algorithms to predict crop prices based on historical data 
 
 ## Installation
 [APK](https://github.com/batani2024/Batani-MobileDev/releases/tag/v1.0.0)
-[Demo app](https://www.youtube.com/watch?v=L6aH1NdHfcE)
+[Demo app](https://drive.google.com/file/d/1ueUY8mIPVwuNCNF0HTUPcJUWT4huvTYZ/view?usp=sharing)
 
 ## Tech Stack
 - Machine Learning: For detail, please check [this repository](https://github.com/batani2024/Machine-Learning)
