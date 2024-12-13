@@ -13,7 +13,7 @@ BATANI uses advanced algorithms to predict crop prices based on historical data 
 
 ### Prerequisites
 - **Android Studio** (for Android app development)
-- **Python 3.x** (for running the backend models)
+- **Python 3.10** (for running the backend models)
 - **Kotlin/Java** (for Android development)
 
 ## Tech Stack
